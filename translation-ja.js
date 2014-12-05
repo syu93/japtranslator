@@ -7,6 +7,7 @@ var translate = function(){
 translate.jp = {
 
 	a : [
+	["ー","ー","ー"],
 	["a","あ","ア"],
 	["i","い","イ"],
 	["u","う","ウ"],
